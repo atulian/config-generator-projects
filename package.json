@@ -1,0 +1,21 @@
+{
+  "name": "generator-atulian",
+  "version": "1.0.1",
+  "description": "Generators React",
+  "main": "index.js",
+  "author": "atulian",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
